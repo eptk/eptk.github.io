@@ -1,8 +1,7 @@
-name: ""
-title: ""
+name: null
+title: null
 description: Energy Prediction Toolkit
 logo: eptk.png
 theme: jekyll-theme-minimal
-
 github:
   is_project_page: false
