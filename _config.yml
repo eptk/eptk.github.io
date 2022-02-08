@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: null
-description: A toolkit for developing and benchmarking energy prediction models in Python.
+description: Energy Prediction Toolkit
 logo: eptk.png
+show_downloads: true
