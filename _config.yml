@@ -1,4 +1,5 @@
 name: Energy Prediction Toolkit
+title: false
 description: Energy Prediction Toolkit
 logo: eptk.png
 theme: jekyll-theme-minimal
