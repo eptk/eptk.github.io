@@ -3,3 +3,6 @@ title: null
 description: Energy Prediction Toolkit
 logo: eptk.png
 theme: jekyll-theme-minimal
+
+github:
+is\_project\_page:false
