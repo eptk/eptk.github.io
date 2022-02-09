@@ -1,3 +1,3 @@
-## Welcome to Energy Prediction Toolkit page
+## Welcome to the Energy Prediction Toolkit (eptk) page
 
-This is just a placeholder page. Staying tuned for updates..
+Energy Prediction Toolkit (eptk) is a python package for implementing and benchmarking energy use prediction models on a collection of large datasets using standard performance metrics. The package includes a variety of predictive models along with a set of configurations that were picked from the top performers in the [ASHRAE - Great Energy Predictor III competition hosted on Kaggle](https://www.kaggle.com/c/ashrae-energy-prediction). The package provides methods for engineering additional features (temporal, weather and rolling stats) from the datasets. The package also provides ensembling techniques such as meta-regressors, Bayesian optimization and subsampling to combine multiple models. The custom cross validator which is used for benchmarking can resume evaluation from a stored checkpoint in the event of failure during runtime. The datasets are first downloaded in the working directory if not found while calling the load method.
